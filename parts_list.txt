@@ -1,0 +1,11 @@
+Parts Needed: 
+------
+
+One RGB LED
+Two Regular LEDs
+One Arduino Nano
+Two Pushbuttons
+Two 10k Ohm resistors
+Four 82 Ohm resistors
+One 130 Ohm resistor
+One or two breadboards

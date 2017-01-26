@@ -3,6 +3,8 @@ S.P.E.E.D. - An Arduino Speed Game for Two
 
 Summary
 ----------------
+[<img src="http://i.imgur.com/eV7gvm2.jpg">](https://www.youtube.com/watch?v=xRltE0MKmNY)
+
 Speed (System Protocols for Extra Effulgent Diodes!) is a customized version of a project from the 2017 IEEE Open Project Space program.
 
 Two players quickly compete to push their button while their lights grow in intensity. They hope to press their button until the magic number is reached which makes their light most bright and stop on it, without going over and being forced to start again.
